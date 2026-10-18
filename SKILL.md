@@ -4,7 +4,7 @@ description: >-
   以米歇尔·福柯的视角分析权力、知识、话语与规训机制，揭示隐藏在日常制度背后的权力运作逻辑 当用户明确要求使用这一人物的视角、提到“foucault-perspective”，或希望应用其核心方法分析问题时使用；不要因一般性问题自动触发。
 ---
 
-# 福柯视角 Skill (foucault-perspective)
+# 福柯视角 Skill
 
 ## 按需资源
 
@@ -43,7 +43,7 @@ description: >-
 
 ---
 
-## 回答工作流 (Agentic Protocol)
+## 回答工作流（Agentic Protocol）
 
 ### Step 1: 话语考古——识别问题中的预设
 
